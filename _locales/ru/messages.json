@@ -1,0 +1,872 @@
+{
+   "browser_action_active_title": {
+      "message": "Browsec"
+   },
+   "browser_action_inactive_title": {
+      "message": "Browsec"
+   },
+   "country_name_AC": {
+      "message": "о-в Вознесения"
+   },
+   "country_name_AD": {
+      "message": "Андорра"
+   },
+   "country_name_AE": {
+      "message": "ОАЭ"
+   },
+   "country_name_AF": {
+      "message": "Афганистан"
+   },
+   "country_name_AG": {
+      "message": "Антигуа и Барбуда"
+   },
+   "country_name_AI": {
+      "message": "Ангилья"
+   },
+   "country_name_AL": {
+      "message": "Албания"
+   },
+   "country_name_AM": {
+      "message": "Армения"
+   },
+   "country_name_AN": {
+      "message": "Нидерландские Антильские о-ва"
+   },
+   "country_name_AO": {
+      "message": "Ангола"
+   },
+   "country_name_AQ": {
+      "message": "Антарктида"
+   },
+   "country_name_AR": {
+      "message": "Аргентина"
+   },
+   "country_name_AS": {
+      "message": "Американское Самоа"
+   },
+   "country_name_AT": {
+      "message": "Австрия"
+   },
+   "country_name_AU": {
+      "message": "Австралия"
+   },
+   "country_name_AW": {
+      "message": "Аруба"
+   },
+   "country_name_AX": {
+      "message": "Аландские о-ва"
+   },
+   "country_name_AZ": {
+      "message": "Азербайджан"
+   },
+   "country_name_BA": {
+      "message": "Босния и Герцеговина"
+   },
+   "country_name_BB": {
+      "message": "Барбадос"
+   },
+   "country_name_BD": {
+      "message": "Бангладеш"
+   },
+   "country_name_BE": {
+      "message": "Бельгия"
+   },
+   "country_name_BF": {
+      "message": "Буркина-Фасо"
+   },
+   "country_name_BG": {
+      "message": "Болгария"
+   },
+   "country_name_BH": {
+      "message": "Бахрейн"
+   },
+   "country_name_BI": {
+      "message": "Бурунди"
+   },
+   "country_name_BJ": {
+      "message": "Бенин"
+   },
+   "country_name_BL": {
+      "message": "Сен-Бартельми"
+   },
+   "country_name_BM": {
+      "message": "Бермудские о-ва"
+   },
+   "country_name_BN": {
+      "message": "Бруней-Даруссалам"
+   },
+   "country_name_BO": {
+      "message": "Боливия"
+   },
+   "country_name_BQ": {
+      "message": "Бонэйр, Синт-Эстатиус и Саба"
+   },
+   "country_name_BR": {
+      "message": "Бразилия"
+   },
+   "country_name_BS": {
+      "message": "Багамские о-ва"
+   },
+   "country_name_BT": {
+      "message": "Бутан"
+   },
+   "country_name_BV": {
+      "message": "о-в Буве"
+   },
+   "country_name_BW": {
+      "message": "Ботсвана"
+   },
+   "country_name_BY": {
+      "message": "Беларусь"
+   },
+   "country_name_BZ": {
+      "message": "Белиз"
+   },
+   "country_name_CA": {
+      "message": "Канада"
+   },
+   "country_name_CC": {
+      "message": "Кокосовые о-ва"
+   },
+   "country_name_CD": {
+      "message": "Конго - Киншаса"
+   },
+   "country_name_CF": {
+      "message": "ЦАР"
+   },
+   "country_name_CG": {
+      "message": "Конго - Браззавиль"
+   },
+   "country_name_CH": {
+      "message": "Швейцария"
+   },
+   "country_name_CI": {
+      "message": "Кот-д’Ивуар"
+   },
+   "country_name_CK": {
+      "message": "о-ва Кука"
+   },
+   "country_name_CL": {
+      "message": "Чили"
+   },
+   "country_name_CM": {
+      "message": "Камерун"
+   },
+   "country_name_CN": {
+      "message": "Китай"
+   },
+   "country_name_CO": {
+      "message": "Колумбия"
+   },
+   "country_name_CP": {
+      "message": "о-в Клиппертон"
+   },
+   "country_name_CR": {
+      "message": "Коста-Рика"
+   },
+   "country_name_CU": {
+      "message": "Куба"
+   },
+   "country_name_CV": {
+      "message": "Кабо-Верде"
+   },
+   "country_name_CW": {
+      "message": "Кюрасао"
+   },
+   "country_name_CX": {
+      "message": "о-в Рождества"
+   },
+   "country_name_CY": {
+      "message": "Кипр"
+   },
+   "country_name_CZ": {
+      "message": "Чехия"
+   },
+   "country_name_DE": {
+      "message": "Германия"
+   },
+   "country_name_DG": {
+      "message": "Диего-Гарсия"
+   },
+   "country_name_DJ": {
+      "message": "Джибути"
+   },
+   "country_name_DK": {
+      "message": "Дания"
+   },
+   "country_name_DM": {
+      "message": "Доминика"
+   },
+   "country_name_DO": {
+      "message": "Доминиканская Республика"
+   },
+   "country_name_DZ": {
+      "message": "Алжир"
+   },
+   "country_name_EA": {
+      "message": "Сеута и Мелилья"
+   },
+   "country_name_EC": {
+      "message": "Эквадор"
+   },
+   "country_name_EE": {
+      "message": "Эстония"
+   },
+   "country_name_EG": {
+      "message": "Египет"
+   },
+   "country_name_EH": {
+      "message": "Западная Сахара"
+   },
+   "country_name_ER": {
+      "message": "Эритрея"
+   },
+   "country_name_ES": {
+      "message": "Испания"
+   },
+   "country_name_ET": {
+      "message": "Эфиопия"
+   },
+   "country_name_EU": {
+      "message": "Европейский союз"
+   },
+   "country_name_FI": {
+      "message": "Финляндия"
+   },
+   "country_name_FJ": {
+      "message": "Фиджи"
+   },
+   "country_name_FK": {
+      "message": "Фолклендские о-ва"
+   },
+   "country_name_FM": {
+      "message": "Федеративные Штаты Микронезии"
+   },
+   "country_name_FO": {
+      "message": "Фарерские о-ва"
+   },
+   "country_name_FR": {
+      "message": "Франция"
+   },
+   "country_name_GA": {
+      "message": "Габон"
+   },
+   "country_name_GB": {
+      "message": "Великобритания"
+   },
+   "country_name_GD": {
+      "message": "Гренада"
+   },
+   "country_name_GE": {
+      "message": "Грузия"
+   },
+   "country_name_GF": {
+      "message": "Французская Гвиана"
+   },
+   "country_name_GG": {
+      "message": "Гернси"
+   },
+   "country_name_GH": {
+      "message": "Гана"
+   },
+   "country_name_GI": {
+      "message": "Гибралтар"
+   },
+   "country_name_GL": {
+      "message": "Гренландия"
+   },
+   "country_name_GM": {
+      "message": "Гамбия"
+   },
+   "country_name_GN": {
+      "message": "Гвинея"
+   },
+   "country_name_GP": {
+      "message": "Гваделупа"
+   },
+   "country_name_GQ": {
+      "message": "Экваториальная Гвинея"
+   },
+   "country_name_GR": {
+      "message": "Греция"
+   },
+   "country_name_GS": {
+      "message": "Южная Георгия и Южные Сандвичевы о-ва"
+   },
+   "country_name_GT": {
+      "message": "Гватемала"
+   },
+   "country_name_GU": {
+      "message": "Гуам"
+   },
+   "country_name_GW": {
+      "message": "Гвинея-Бисау"
+   },
+   "country_name_GY": {
+      "message": "Гайана"
+   },
+   "country_name_HK": {
+      "message": "Гонконг (особый район)"
+   },
+   "country_name_HM": {
+      "message": "о-ва Херд и Макдональд"
+   },
+   "country_name_HN": {
+      "message": "Гондурас"
+   },
+   "country_name_HR": {
+      "message": "Хорватия"
+   },
+   "country_name_HT": {
+      "message": "Гаити"
+   },
+   "country_name_HU": {
+      "message": "Венгрия"
+   },
+   "country_name_IC": {
+      "message": "Канарские о-ва"
+   },
+   "country_name_ID": {
+      "message": "Индонезия"
+   },
+   "country_name_IE": {
+      "message": "Ирландия"
+   },
+   "country_name_IL": {
+      "message": "Израиль"
+   },
+   "country_name_IM": {
+      "message": "О-в Мэн"
+   },
+   "country_name_IN": {
+      "message": "Индия"
+   },
+   "country_name_IO": {
+      "message": "Британская территория в Индийском океане"
+   },
+   "country_name_IQ": {
+      "message": "Ирак"
+   },
+   "country_name_IR": {
+      "message": "Иран"
+   },
+   "country_name_IS": {
+      "message": "Исландия"
+   },
+   "country_name_IT": {
+      "message": "Италия"
+   },
+   "country_name_JE": {
+      "message": "Джерси"
+   },
+   "country_name_JM": {
+      "message": "Ямайка"
+   },
+   "country_name_JO": {
+      "message": "Иордания"
+   },
+   "country_name_JP": {
+      "message": "Япония"
+   },
+   "country_name_KE": {
+      "message": "Кения"
+   },
+   "country_name_KG": {
+      "message": "Киргизия"
+   },
+   "country_name_KH": {
+      "message": "Камбоджа"
+   },
+   "country_name_KI": {
+      "message": "Кирибати"
+   },
+   "country_name_KM": {
+      "message": "Коморские о-ва"
+   },
+   "country_name_KN": {
+      "message": "Сент-Китс и Невис"
+   },
+   "country_name_KP": {
+      "message": "КНДР"
+   },
+   "country_name_KR": {
+      "message": "Республика Корея"
+   },
+   "country_name_KW": {
+      "message": "Кувейт"
+   },
+   "country_name_KY": {
+      "message": "Каймановы о-ва"
+   },
+   "country_name_KZ": {
+      "message": "Казахстан"
+   },
+   "country_name_LA": {
+      "message": "Лаос"
+   },
+   "country_name_LB": {
+      "message": "Ливан"
+   },
+   "country_name_LC": {
+      "message": "Сент-Люсия"
+   },
+   "country_name_LI": {
+      "message": "Лихтенштейн"
+   },
+   "country_name_LK": {
+      "message": "Шри-Ланка"
+   },
+   "country_name_LR": {
+      "message": "Либерия"
+   },
+   "country_name_LS": {
+      "message": "Лесото"
+   },
+   "country_name_LT": {
+      "message": "Литва"
+   },
+   "country_name_LU": {
+      "message": "Люксембург"
+   },
+   "country_name_LV": {
+      "message": "Латвия"
+   },
+   "country_name_LY": {
+      "message": "Ливия"
+   },
+   "country_name_MA": {
+      "message": "Марокко"
+   },
+   "country_name_MC": {
+      "message": "Монако"
+   },
+   "country_name_MD": {
+      "message": "Молдова"
+   },
+   "country_name_ME": {
+      "message": "Черногория"
+   },
+   "country_name_MF": {
+      "message": "Сен-Мартен"
+   },
+   "country_name_MG": {
+      "message": "Мадагаскар"
+   },
+   "country_name_MH": {
+      "message": "Маршалловы о-ва"
+   },
+   "country_name_MK": {
+      "message": "Македония"
+   },
+   "country_name_ML": {
+      "message": "Мали"
+   },
+   "country_name_MM": {
+      "message": "Мьянма (Бирма)"
+   },
+   "country_name_MN": {
+      "message": "Монголия"
+   },
+   "country_name_MO": {
+      "message": "Макао (особый район)"
+   },
+   "country_name_MP": {
+      "message": "Северные Марианские о-ва"
+   },
+   "country_name_MQ": {
+      "message": "Мартиника"
+   },
+   "country_name_MR": {
+      "message": "Мавритания"
+   },
+   "country_name_MS": {
+      "message": "Монтсеррат"
+   },
+   "country_name_MT": {
+      "message": "Мальта"
+   },
+   "country_name_MU": {
+      "message": "Маврикий"
+   },
+   "country_name_MV": {
+      "message": "Мальдивы"
+   },
+   "country_name_MW": {
+      "message": "Малави"
+   },
+   "country_name_MX": {
+      "message": "Мексика"
+   },
+   "country_name_MY": {
+      "message": "Малайзия"
+   },
+   "country_name_MZ": {
+      "message": "Мозамбик"
+   },
+   "country_name_NA": {
+      "message": "Намибия"
+   },
+   "country_name_NC": {
+      "message": "Новая Каледония"
+   },
+   "country_name_NE": {
+      "message": "Нигер"
+   },
+   "country_name_NF": {
+      "message": "о-в Норфолк"
+   },
+   "country_name_NG": {
+      "message": "Нигерия"
+   },
+   "country_name_NI": {
+      "message": "Никарагуа"
+   },
+   "country_name_NL": {
+      "message": "Нидерланды"
+   },
+   "country_name_NO": {
+      "message": "Норвегия"
+   },
+   "country_name_NP": {
+      "message": "Непал"
+   },
+   "country_name_NR": {
+      "message": "Науру"
+   },
+   "country_name_NU": {
+      "message": "Ниуэ"
+   },
+   "country_name_NZ": {
+      "message": "Новая Зеландия"
+   },
+   "country_name_OM": {
+      "message": "Оман"
+   },
+   "country_name_PA": {
+      "message": "Панама"
+   },
+   "country_name_PE": {
+      "message": "Перу"
+   },
+   "country_name_PF": {
+      "message": "Французская Полинезия"
+   },
+   "country_name_PG": {
+      "message": "Папуа – Новая Гвинея"
+   },
+   "country_name_PH": {
+      "message": "Филиппины"
+   },
+   "country_name_PK": {
+      "message": "Пакистан"
+   },
+   "country_name_PL": {
+      "message": "Польша"
+   },
+   "country_name_PM": {
+      "message": "Сен-Пьер и Микелон"
+   },
+   "country_name_PN": {
+      "message": "Питкерн"
+   },
+   "country_name_PR": {
+      "message": "Пуэрто-Рико"
+   },
+   "country_name_PS": {
+      "message": "Палестинские территории"
+   },
+   "country_name_PT": {
+      "message": "Португалия"
+   },
+   "country_name_PW": {
+      "message": "Палау"
+   },
+   "country_name_PY": {
+      "message": "Парагвай"
+   },
+   "country_name_QA": {
+      "message": "Катар"
+   },
+   "country_name_QO": {
+      "message": "Внешняя Океания"
+   },
+   "country_name_RE": {
+      "message": "Реюньон"
+   },
+   "country_name_RO": {
+      "message": "Румыния"
+   },
+   "country_name_RS": {
+      "message": "Сербия"
+   },
+   "country_name_RU": {
+      "message": "Россия"
+   },
+   "country_name_RW": {
+      "message": "Руанда"
+   },
+   "country_name_SA": {
+      "message": "Саудовская Аравия"
+   },
+   "country_name_SB": {
+      "message": "Соломоновы о-ва"
+   },
+   "country_name_SC": {
+      "message": "Сейшельские о-ва"
+   },
+   "country_name_SD": {
+      "message": "Судан"
+   },
+   "country_name_SE": {
+      "message": "Швеция"
+   },
+   "country_name_SG": {
+      "message": "Сингапур"
+   },
+   "country_name_SH": {
+      "message": "О-в Св. Елены"
+   },
+   "country_name_SI": {
+      "message": "Словения"
+   },
+   "country_name_SJ": {
+      "message": "Шпицберген и Ян-Майен"
+   },
+   "country_name_SK": {
+      "message": "Словакия"
+   },
+   "country_name_SL": {
+      "message": "Сьерра-Леоне"
+   },
+   "country_name_SM": {
+      "message": "Сан-Марино"
+   },
+   "country_name_SN": {
+      "message": "Сенегал"
+   },
+   "country_name_SO": {
+      "message": "Сомали"
+   },
+   "country_name_SR": {
+      "message": "Суринам"
+   },
+   "country_name_SS": {
+      "message": "Южный Судан"
+   },
+   "country_name_ST": {
+      "message": "Сан-Томе и Принсипи"
+   },
+   "country_name_SV": {
+      "message": "Сальвадор"
+   },
+   "country_name_SX": {
+      "message": "Синт-Мартен"
+   },
+   "country_name_SY": {
+      "message": "Сирия"
+   },
+   "country_name_SZ": {
+      "message": "Свазиленд"
+   },
+   "country_name_TA": {
+      "message": "Тристан-да-Кунья"
+   },
+   "country_name_TC": {
+      "message": "О-ва Тёркс и Кайкос"
+   },
+   "country_name_TD": {
+      "message": "Чад"
+   },
+   "country_name_TF": {
+      "message": "Французские Южные Территории"
+   },
+   "country_name_TG": {
+      "message": "Того"
+   },
+   "country_name_TH": {
+      "message": "Таиланд"
+   },
+   "country_name_TJ": {
+      "message": "Таджикистан"
+   },
+   "country_name_TK": {
+      "message": "Токелау"
+   },
+   "country_name_TL": {
+      "message": "Восточный Тимор"
+   },
+   "country_name_TM": {
+      "message": "Туркменистан"
+   },
+   "country_name_TN": {
+      "message": "Тунис"
+   },
+   "country_name_TO": {
+      "message": "Тонга"
+   },
+   "country_name_TR": {
+      "message": "Турция"
+   },
+   "country_name_TT": {
+      "message": "Тринидад и Тобаго"
+   },
+   "country_name_TV": {
+      "message": "Тувалу"
+   },
+   "country_name_TW": {
+      "message": "Тайвань"
+   },
+   "country_name_TZ": {
+      "message": "Танзания"
+   },
+   "country_name_UA": {
+      "message": "Украина"
+   },
+   "country_name_UG": {
+      "message": "Уганда"
+   },
+   "country_name_UK": {
+      "message": "Великобритания"
+   },
+   "country_name_UM": {
+      "message": "Внешние малые о-ва (США)"
+   },
+   "country_name_US": {
+      "message": "Соединенные Штаты"
+   },
+   "country_name_US_TEST": {
+      "message": "Соединенные Штаты (тест)"
+   },
+   "country_name_UY": {
+      "message": "Уругвай"
+   },
+   "country_name_UZ": {
+      "message": "Узбекистан"
+   },
+   "country_name_VA": {
+      "message": "Ватикан"
+   },
+   "country_name_VC": {
+      "message": "Сент-Винсент и Гренадины"
+   },
+   "country_name_VE": {
+      "message": "Венесуэла"
+   },
+   "country_name_VG": {
+      "message": "Виргинские о-ва (Британские)"
+   },
+   "country_name_VI": {
+      "message": "Виргинские о-ва (США)"
+   },
+   "country_name_VN": {
+      "message": "Вьетнам"
+   },
+   "country_name_VU": {
+      "message": "Вануату"
+   },
+   "country_name_WF": {
+      "message": "Уоллис и Футуна"
+   },
+   "country_name_WS": {
+      "message": "Самоа"
+   },
+   "country_name_XK": {
+      "message": "Косово"
+   },
+   "country_name_YE": {
+      "message": "Йемен"
+   },
+   "country_name_YT": {
+      "message": "Майотта"
+   },
+   "country_name_ZA": {
+      "message": "ЮАР"
+   },
+   "country_name_ZM": {
+      "message": "Замбия"
+   },
+   "country_name_ZW": {
+      "message": "Зимбабве"
+   },
+   "country_name_ZZ": {
+      "message": "Неизвестный регион"
+   },
+   "error_check_credentials": {
+      "message": "Невозможно проверить имейл и пароль. Проверьте соединение с интернетом и попробуйте еще раз."
+   },
+   "error_unable_change_proxy_settings": {
+      "message": "Browsec не может изменить настройки прокси, т.к. они заблокированы другим расширением.\nУдалите расширение, блокируещее настройки прокси и попробуйте еще раз."
+   },
+   "extension_description": {
+      "message": "Шифрует трафик и позволяет открывать заблокированные сайты."
+   },
+   "incorrect_email_or_password": {
+      "message": "Неверный имейл или пароль"
+   },
+   "options": {
+      "message": "Настройки"
+   },
+   "options_connect_button": {
+      "message": "Включить"
+   },
+   "options_connected": {
+      "message": "Соединение установлено"
+   },
+   "options_disconnect_button": {
+      "message": "Выключить"
+   },
+   "options_dont_have_an_account": {
+      "message": "Нет аккаунта?"
+   },
+   "options_email": {
+      "message": "Эл. почта"
+   },
+   "options_enter_email_and_password": {
+      "message": "Введите имейл и пароль"
+   },
+   "options_forgot_password": {
+      "message": "Забыли пароль?"
+   },
+   "options_login": {
+      "message": "Вход"
+   },
+   "options_password": {
+      "message": "Пароль"
+   },
+   "options_signup": {
+      "message": "Регистрация"
+   },
+   "options_signup_for_free": {
+      "message": "Зарегистрируйтесь бесплатно!"
+   },
+   "options_title": {
+      "message": "Настройки Browsec"
+   },
+   "popup_appstore": {
+      "message": "Скачай Browsec для iPhone"
+   },
+   "popup_disable": {
+      "message": "Выключить"
+   },
+   "popup_enable": {
+      "message": "Включить"
+   },
+   "popup_internet_access_point": {
+      "message": "Выход в интернет из: "
+   },
+   "popup_protection_disabled": {
+      "message": "Защита отключена"
+   },
+   "popup_protection_disabled_description": {
+      "message": "Ваши данные передаются в открытом виде без шифрования. Ваше местоположение и IP-адрес не скрываются."
+   },
+   "popup_support": {
+      "message": "Поддержка"
+   },
+   "popup_your_location": {
+      "message": "Ваша страна: "
+   },
+   "signup_error": {
+      "message": "Невозможно установить связь с сервером Browsec. Пожалуйста, проверьте свое Интернет соединение. Если ошибка остается, обратитесь в службу поддержки Browsec."
+   }
+}
